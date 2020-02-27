@@ -183,7 +183,7 @@ img {
 
 #team .content {
     position: relative;
-    background-color: #f1f1f1;
+    background-color: #f1f0ff;
     padding: 25px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
